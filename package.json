@@ -1,16 +1,16 @@
 {
-  "name": "y",
+  "name": "tmp",
   "version": "1.0.0",
-  "description": "Мой первый проект на Хекслете",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "git+https://github.com/Dan-oss/hexlet-js.git"
   },
-  "author": "Dan-oss",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Dan-oss/hexlet-js/issues"
